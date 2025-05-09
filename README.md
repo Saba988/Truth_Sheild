@@ -57,11 +57,13 @@ api_key = "YOUR_NEWSAPI_KEY"
 Run the app:
 streamlit run app.py
 
+---
 
-🔒 Security Note
+# 🔒 Security Note
 Your NewsAPI key should be kept private.
 
+---
 
-👤 Author
+#👤 Author
 Saba – Computer Science Student & AI Enthusiast
 “Stay Aware, Stay Safe!”
