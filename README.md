@@ -65,5 +65,5 @@ Your NewsAPI key should be kept private.
 ---
 
 # 👤 Author
-Saba – Computer Science Student & AI Enthusiast
+Saba Junaid – Computer Science Student & AI Enthusiast
 “Stay Aware, Stay Safe!”
